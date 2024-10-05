@@ -10,6 +10,9 @@ Welcome to the Tic Tac Toe game! This is a classic 2-player game built with HTML
 - Simple and intuitive interface.
 
 ## Technologies Used
+
 HTML: Structure of the game
+<br>
 CSS: Styling the game interface
+<br>
 JavaScript: Game logic and functionality
