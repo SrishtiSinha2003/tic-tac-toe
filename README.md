@@ -16,3 +16,7 @@ HTML: Structure of the game
 CSS: Styling the game interface
 <br>
 JavaScript: Game logic and functionality
+
+##Demo
+
+You can see the demo of the same at : https://srishtisinha2003.github.io/tic-tac-toe/
